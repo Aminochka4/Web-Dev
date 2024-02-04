@@ -1,0 +1,120 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#all {
+    display: flex;
+    max-width: 800px;
+}
+
+h2 {
+    font-size: 55px;
+    color: rgb(24, 119, 242);
+    margin-bottom: 15px
+}
+
+.underlogo {
+    font-size: 28px;
+    line-height: 30px;
+    width: 140%;
+    margin-top: -10px
+}
+
+.logo {
+    flex: 1;
+    padding: 7px;
+    margin-left: -100px;
+    margin-top: -70px
+}
+
+.login {
+    flex: 1;
+    padding: 16px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-left: 150px;
+    margin-top: -100px;
+    position: relative;
+}
+
+a {
+    color: rgb(24, 119, 242);
+    font-size: 15px;
+    padding-left: 118px;
+
+}
+
+#underlogin {
+    position: absolute;
+    bottom: 177px;
+    right: 340px;
+    font-size: 13.5px;
+}
+
+.underl:hover{
+    text-decoration: underline;
+}
+
+#fb {
+    background-color: rgb(24, 119, 242);
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+#sb {
+    display: block;
+    background-color: rgb(63, 184, 39);
+    font-size: 17px;
+    margin: auto;
+    margin-top: 20px;
+    width: 70%;
+}
+
+button {
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    width: 100%;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+input:focus {
+    border: 1px solid rgb(24, 119, 242);
+    outline: none;
+}
+
+.extra {
+    text-align: center;
+    margin: auto;
+    position: fixed;
+    left: 0;
+    bottom: 7px;
+    width: 100%;
+    height: 5%;
+    background-color: white;
+    line-height: 5vh;
+    font-size: 15px;
+    color: rgb(86, 87, 87)
+}
+.extra:hover{
+    text-decoration: underline;
+}
