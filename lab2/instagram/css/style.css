@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body {
+    font-family: Arial;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+.all {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+}
+
+.login-box {
+    border: 1px solid rgb(222, 219, 219);
+    padding: 10px; 
+    margin-right: 100px;
+    margin-top: 40px;
+    box-sizing: border-box; 
+    width: 57%;
+    height: 200%;
+}
+
+img {
+    display: block;
+    margin-left: 370px;
+    margin-top: 25px;
+    margin-right: auto;
+    width: 29%;
+}
+
+input {
+    border: 1px solid rgb(222, 219, 219);
+    background-color: rgb(249, 248, 248);
+    outline: none;
+    border-radius: 3px;
+    width: 90%;
+    padding-left: 100px;
+    padding: 12px 10px;
+    margin: 8px 0 3px 15px;
+    display: inline-block;
+    box-sizing: border-box;
+
+}
+
+.enter {
+    background-color: rgb(24, 119, 242);
+    font-size: 15px;
+    margin-bottom: 20px;
+    color: white;
+    padding: 8px 20px;
+    margin: 15px 0 0 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 90%;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+#register {
+    color: rgb(24, 119, 242)
+}
+
+#fb {
+    color: rgb(53, 8, 135);
+    font-size: 14px;
+    padding-left: 100px;
+}
+
+#forgot{
+    color: rgb(53, 8, 135);
+    font-size: 11px;
+    padding-left: 125px;
+}
+
+.or-line{
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 10px 0;
+}
+
+.line {
+    display: inline-block;
+    width: 37%;
+    vertical-align: middle;
+}
+
+.or {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #737373;
+    font-size: 17px;
+}
+
+.register-box{
+    border: 1px solid rgb(222, 219, 219);
+    padding: 10px 0 5px 40px; 
+    margin-top: 10px;
+    box-sizing: border-box; 
+    width: 57%;
+    font-size: 13px;
+}
+
+.under-boxes{
+    padding-left: 90px;
+}
+
+#install{
+    font-size: 15px;
+}
+
+.extra{
+    background-color: black;
+    color: white;
+    width: 23%;
+    position: relative;
+    left: -35px;
+    top: -5px;
+}
