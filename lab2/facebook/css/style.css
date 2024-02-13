@@ -102,19 +102,30 @@ input:focus {
     outline: none;
 }
 
-.extra {
-    text-align: center;
+.extra{
     margin: auto;
-    position: fixed;
+    position: absolute;
     left: 0;
-    bottom: 7px;
+    bottom: 0;
     width: 100%;
-    height: 5%;
     background-color: white;
-    line-height: 5vh;
-    font-size: 15px;
-    color: rgb(86, 87, 87)
+    line-height: 19px;
+    font-size: 11px;
+    color: rgb(131, 132, 132);
 }
 .extra:hover{
     text-decoration: underline;
+}
+
+.extra-text{
+    padding-left: 300px;
+    padding-right: 100px;
+}
+
+#text2{
+    padding-right: 300px;
+}
+
+#extra-line{
+    width: 59%;
 }

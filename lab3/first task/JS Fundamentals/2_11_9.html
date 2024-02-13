@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <p>Before the script...</p>
+    <script>
+        'use strict';
+        let login = prompt("Login: ", "");
+        if (login == "Admin") {
+            let password = prompt("Password:", "");
+            password == "TheMaster" ? alert("Welcome") : password == "" ? alert("Exit") : alert("Incorrect pass");
+        }
+        else if (login == "") alert("Exit");
+        else alert("Idk u");
+    </script>
+    <p>...After the script.</p>
+</body>
+
+</html>
