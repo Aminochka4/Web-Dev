@@ -1,0 +1,15 @@
+<h2>Детали изделия</h2>
+
+<div *ngIf="product">
+    <h3>{{ product?.name }}</h3>
+    <h4>Цена: ${{ product?.price }}</h4>
+    <h4>Рейтинг: {{product?.rating}}/5.0</h4>
+    <p> Описание: <br>{{ product?.description }}</p>
+    <a href={{product?.link}}>жми сюда, чтобы заказать</a>
+    <br>
+    <img src={{product?.img1}}>
+    <!-- <br> -->
+    <img src={{product?.img2}}>
+    <!-- <br> -->
+    <img src={{product?.img3}}>
+</div>

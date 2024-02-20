@@ -17,7 +17,7 @@ function addButton() {
     checkbox.addEventListener('change', function () {
         textContainer.style.textDecoration = checkbox.checked ? 'line-through' : 'none';
         
-        saveData();
+        // saveData();
     });
 
     let deleteIcon = document.createElement('img');
@@ -27,7 +27,7 @@ function addButton() {
     deleteIcon.addEventListener('click', function () {
         newItem.remove();
         
-        saveData();
+        // saveData();
     });
 
     newItem.appendChild(checkbox);
@@ -38,21 +38,21 @@ function addButton() {
 
     document.getElementById('input').value = '';
     
-    saveData();
+    // saveData();
 }
 
-function saveData() {
-    let tasksData = [];
-    let taskItems = document.querySelectorAll('.item');
+// function saveData() {
+//     let tasksData = [];
+//     let taskItems = document.querySelectorAll('.item');
 
-    taskItems.forEach(function(item) {
-        let taskText = item.querySelector('.text').textContent;
-        let isChecked = item.querySelector('input[type="checkbox"]').checked;
-        tasksData.push({text: taskText, checked: isChecked});
-    });
+//     taskItems.forEach(function(item) {
+//         let taskText = item.querySelector('.text').textContent;
+//         let isChecked = item.querySelector('input[type="checkbox"]').checked;
+//         tasksData.push({text: taskText, checked: isChecked});
+//     });
 
-    localStorage.setItem('tasksData', JSON.stringify(tasksData));
-}
+//     localStorage.setItem('tasksData', JSON.stringify(tasksData));
+// }
 
 // function showTasks() {
 //     let tasksData = JSON.parse(localStorage.getItem('tasksData')) || [];
