@@ -1,0 +1,15 @@
+.category {
+    color:#671111;
+    border: groove 3px #671111;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    min-width: 200px;
+}
+#categories-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

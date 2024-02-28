@@ -1,0 +1,15 @@
+.close-button{
+    float: right;
+    background: transparent;
+    color: #671111; font-weight: bolder;
+    font-size: 20px;
+    margin-top: -15px;
+    margin-right: -18px;
+    font-family: 'Arial Black'
+}
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/

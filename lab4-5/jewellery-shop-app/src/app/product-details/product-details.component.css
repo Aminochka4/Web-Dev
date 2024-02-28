@@ -1,0 +1,33 @@
+img {
+    width: 380px;
+    border: groove 1px white;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+h2{
+    color:#671111;
+}
+
+h3 {
+    font-size: 23px;
+    color: #671111;
+}
+
+h4 {
+    font-size: 17px;
+    font-weight: lighter;
+}
+
+p, a {
+    font-size: 17px;
+}
+
+#item {
+    border: groove 2px #671111;
+    border-radius: 25px;
+    padding: 10px;
+    display:flex;
+}
+
+
