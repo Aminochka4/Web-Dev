@@ -1,0 +1,29 @@
+<h2>Ювелирные изделия</h2>
+
+<div *ngFor="let product of products_by_category" id="product">
+
+
+    <a [title]="product.name + ' details'" [routerLink]="['/products', product.id]" id="name">
+        {{ product.name }}
+    </a>
+    <button class="close-button" (click)="deleteProduct(product)">X</button>
+
+    <p *ngIf="product.description">
+        Описание: {{ product.description }}
+    </p>
+    <div style="display: flex">
+
+        <button type="button" (click)="share(product.id)" style="margin-right: auto">Share</button>
+        <span style="color: #671111; font-weight: bold">Likes: {{ product.likes }}</span>
+        <button type="button" (click)="likeProduct(product)" style="margin-left: auto">
+            Like
+        </button>
+    </div>
+
+</div>
+
+<!-- 
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+-->
