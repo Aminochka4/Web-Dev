@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.log
+*.sqlite3
+*.sql
+*.pot
+*.py[co]
+/media
+/static
+/db.sqlite3
+/myenv/
+*.swp
+*~
+*.bak
