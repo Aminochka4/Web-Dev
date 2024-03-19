@@ -12,7 +12,7 @@ import { Product, products } from '../products';
 export class ProductListComponent implements OnInit {
   products_by_category: Product[] | undefined;
 
-  searchInput: string = '';
+  // searchInput: string = '';
 
   constructor(private route: ActivatedRoute) { }
 
@@ -33,7 +33,12 @@ export class ProductListComponent implements OnInit {
   }
 
   likeProduct(product: Product): void {
-    product.likes += 1;
+    if(product.likes==0){
+      product.likes += 1;
+    }else{
+      alert("You have already liked");
+    }
+    
   }
 
   deleteProduct(product: Product): void {

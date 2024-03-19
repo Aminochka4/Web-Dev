@@ -94,27 +94,10 @@ app-top-bar h1 {
   width: 95%;
 }
 
-#category{
-  color:#671111;
-  border: groove 3px #671111;
-  border-radius: 10px;
-  margin: 10px;
-  width: 10%;
-  height: 5%;
-  font-size: 20px;
-  text-align: center;
-}
-
 .container{
   display: flex;
   justify-content: center;
   margin-top: 50px;
-}
-
-@media screen and(min-width: 768px){
-  .container{
-    width: 100%;
-  }
 }
 
 

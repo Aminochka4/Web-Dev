@@ -242,7 +242,7 @@ export const products: Product[] = [
   },
   {
     id: 20,
-    name: 'Кольцо Damiani 20087899',
+    name: 'Колье Damiani 20087899',
     price: 4665.98,
     description: 'страна производитель Италия, длина 45.0 см, вес изделия 7.8 г',
     detail: 'проба 750, вставка бриллиант, сапфир',

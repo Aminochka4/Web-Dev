@@ -23,6 +23,15 @@ export class ProductDetailsComponent implements OnInit {
     this.product = products.find(product => product.id === productIdFromRoute);
   }
 
+  likeProduct(product: Product): void {
+    if(product.likes==0){
+      product.likes += 1;
+    }else{
+      alert("You have already liked");
+    }
+    
+  }
+
   
 
 }

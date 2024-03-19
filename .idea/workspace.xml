@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aca13cb5-1744-496b-839d-6afaa42eda29" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/jewellery-shop-app/.angular/cache/17.1.3/angular.io-example/.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/jewellery-shop-app/.angular/cache/17.1.3/angular.io-example/.tsbuildinfo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/jewellery-shop-app/src/app/product-details/product-details.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/jewellery-shop-app/src/app/product-details/product-details.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/jewellery-shop-app/src/app/product-list/product-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/jewellery-shop-app/src/app/product-list/product-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/jewellery-shop-app/src/app/products.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/jewellery-shop-app/src/app/products.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/.angular/cache/17.1.3/angular.io-example/.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/.angular/cache/17.1.3/angular.io-example/.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/app/category/category.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/app/category/category.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/app/product-details/product-details.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/app/product-details/product-details.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/app/product-list/product-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/app/product-list/product-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/app/product-list/product-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/app/product-list/product-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/app/products.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/app/products.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab4-5/jewellery-shop-app/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/src/app/album-detail/album-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/src/app/album-detail/album-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/src/app/album-detail/album-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/src/app/album-detail/album-detail.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/src/app/album-photos/album-photos.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/src/app/album-photos/album-photos.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +26,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Aminochka4"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Aminochka4&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -45,20 +51,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Victus/Desktop/учеба/4sem/WebDev",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Victus/Desktop/учеба/4sem/WebDev&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Victus\Desktop\учеба\4sem\WebDev\lab7\task1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,6 +80,11 @@
       <updated>1708248543729</updated>
       <workItem from="1708248545966" duration="699000" />
       <workItem from="1708612650538" duration="64000" />
+      <workItem from="1710144258313" duration="59000" />
+      <workItem from="1710144943754" duration="671000" />
+      <workItem from="1710146709895" duration="264000" />
+      <workItem from="1710839337283" duration="3655000" />
+      <workItem from="1710859326716" duration="320000" />
     </task>
     <servers />
   </component>
