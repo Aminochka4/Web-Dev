@@ -8,5 +8,5 @@ urlpatterns = [
     re_path(r'^companies/(\d+)/vacancies/$', get_vacancies_by_company),
     path('vacancies/', get_vacancies),
     re_path(r'^vacancies/(\d+)/$', get_vacancy_by_id),
-    path('vacancies/top-ten/', get_vacancies_top_ten),
+    path('vacancies/top-ten/', get_vacancies_top_ten),  
 ]
