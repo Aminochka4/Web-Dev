@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aca13cb5-1744-496b-839d-6afaa42eda29" name="Changes" comment="recommit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="aca13cb5-1744-496b-839d-6afaa42eda29" name="Changes" comment="lab10">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/hh_front1/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/hh_front1/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/hh_front1/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/hh_front1/src/app/app.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/hh_front1/src/app/company/company.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/hh_front1/src/app/company/company.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/hh_front1/src/app/vacancy/vacancy.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/hh_front1/src/app/vacancy/vacancy.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/hh_front1/src/app/vacancy/vacancy.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/hh_front1/src/app/vacancy/vacancy.component.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +98,10 @@
       <workItem from="1712432185660" duration="1113000" />
       <workItem from="1712478712283" duration="369000" />
       <workItem from="1712482014905" duration="2097000" />
+      <workItem from="1713297392609" duration="872000" />
+      <workItem from="1713298325237" duration="220000" />
+      <workItem from="1713334597029" duration="467000" />
+      <workItem from="1713335296718" duration="1729000" />
     </task>
     <task id="LOCAL-00001" summary="process">
       <option name="closed" value="true" />
@@ -156,11 +167,30 @@
       <option name="project" value="LOCAL" />
       <updated>1712432541507</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lab10">
+      <option name="closed" value="true" />
+      <created>1713297593822</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713297593822</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="process" />
@@ -169,6 +199,7 @@
     <MESSAGE value="lab 4-5" />
     <MESSAGE value="lab8" />
     <MESSAGE value="recommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="recommit" />
+    <MESSAGE value="lab10" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab10" />
   </component>
 </project>

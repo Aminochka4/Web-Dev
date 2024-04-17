@@ -6,7 +6,6 @@ import { RouterModule} from '@angular/router';
 import {routes} from "./app.routes";
 
 import { CompanyComponent } from './company/company.component';
-import { VacancyComponent } from './vacancy/vacancy.component';
 import { AppComponent } from './app.component';
 
 @NgModule({
@@ -18,7 +17,6 @@ import { AppComponent } from './app.component';
   ],
   declarations: [
     CompanyComponent,
-    VacancyComponent,
     AppComponent
   ],
   bootstrap: [AppComponent],

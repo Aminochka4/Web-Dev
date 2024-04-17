@@ -17,8 +17,6 @@ export class CompanyComponent implements OnInit {
 
   constructor(
     private hh_serviceService: CompanyService,
-    private router: Router,
-    private route: ActivatedRoute,
   ) {
   }
 
